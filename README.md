@@ -51,3 +51,6 @@ Lastly, a different activation function, tanh, was used. However, none of these 
 ![P10](https://user-images.githubusercontent.com/109183214/208983818-a90420ee-a0b2-44f1-b0d6-422181b1ea48.png)
 ![P11](https://user-images.githubusercontent.com/109183214/208983820-a6d97195-417c-46f6-9960-93af47031a8c.png)
 
+### Summary
+The deep learning neural network model did not reach the target of 75% accuracy. Knowing that multiple approaches resulted in similar performances, it could be determined that this model is not the best model to use.
+One model that could be recommended is the Random Forest Classifier. Since the target is a binary classification, a supervised machine learning model such as a Random Forest Classifier could be used to combine multiple decision trees to generate a classified output. That model could then be evaluated by its performance and compared against the deep learning model.
